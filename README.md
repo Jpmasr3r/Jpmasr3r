@@ -6,7 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jpmasr3r&repo=beesmap&theme=tokyonight)](https://github.com/Jpmasr3r/CatEngine)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpmasr3r&theme=tokyonight&langs_count=6&layout=pie)](https://github.com/Jpmasr3r)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpmasr3r&theme=tokyonight&langs_count=10&layout=pie)](https://github.com/Jpmasr3r)
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
